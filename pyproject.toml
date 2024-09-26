@@ -25,7 +25,8 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "pandas==2.2.3"
+  "pandas==2.2.3",
+  "joblib==1.4.2"
   ]
 
 [project.urls]

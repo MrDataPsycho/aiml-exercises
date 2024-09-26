@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "alamshc", email = "sheikh.alam@novartis.com" },
+  { name = "datapsycho", email = "mr.data.psycho@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -29,9 +29,9 @@ dependencies = [
   ]
 
 [project.urls]
-Documentation = "https://github.com/alamshc/aimlexercies#readme"
-Issues = "https://github.com/alamshc/aimlexercies/issues"
-Source = "https://github.com/alamshc/aimlexercies"
+Documentation = "https://github.com/datapsycho/aimlexercies#readme"
+Issues = "https://github.com/datapsycho/aimlexercies/issues"
+Source = "https://github.com/datapsycho/aimlexercies"
 
 [tool.hatch.version]
 path = "src/aimlexercies/__about__.py"
